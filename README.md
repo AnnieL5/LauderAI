@@ -1,6 +1,8 @@
 # Lauder AI - AI verson of Mr. Lauder
 
-An AI-powered feedback tool that provides feedback on presentation an gives life advice, built around a fictional teacher persona. Students can ask questions or submit code for chat-based review or upload a presentation for slide-by-slide analysis — all in the voice of **Mr. Lauder**.
+An AI version of Mr Lauder that can give you personalized feedback on your presentation, and help you cook it!! 
+
+It is an AI-powered feedback tool that provides feedback on presentation an gives life advice, built around a fictional teacher persona. Students can ask questions or submit code for chat-based review or upload a presentation for slide-by-slide analysis — all in the voice of **Mr. Lauder**.
 
 ---
 
